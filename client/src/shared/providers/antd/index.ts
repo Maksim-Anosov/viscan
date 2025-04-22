@@ -1,0 +1,1 @@
+export { AntdRegistry } from './ui/AntdRegistry';
